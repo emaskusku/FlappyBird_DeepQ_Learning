@@ -11,8 +11,8 @@ A PowerPoint presentation was also created about the algorithm, along with a per
 * OpenCV-Python
 
 ## Usage
-In order to train, modify these parameters in deep_q_network.py
-OBSERVE = 10000
+In order to train, modify these parameters in deep_q_network.py  
+OBSERVE = 10000  
 EXPLORE = 3000000
 FINAL_EPSILON = 0.0001
 INITIAL_EPSILON = 0.1
