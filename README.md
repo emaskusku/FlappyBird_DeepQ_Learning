@@ -29,5 +29,5 @@ To make a video, enable the saving screen function in line 153 "save_jpg_screen(
 This work is based on the following repos:
 
 1. https://github.com/sourabhv/FlapPyBird
-2. https://github.com/yenchenlin/DeepLearningFlappyBird
+2. [asrivat1/DeepLearningVideoGames](https://github.com/nikitasrivatsan/DeepLearningVideoGames)
 
